@@ -1,0 +1,82 @@
+body{
+    background-color: #322f2f;
+}
+
+.hea{
+    background-color: #222020;
+}
+
+.nazov{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 3vw;
+}
+
+
+.nameCol
+{
+    color: aliceblue;
+    text-align: center;
+    /*border: 5px solid white;*/
+    /*border-radius: 20px;*/
+    /*height: auto;*/
+
+}
+
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.flex-item {
+    /*width: 400px;*/
+    /*height: 300px;*/
+    width: 600px;
+    height: 800px;
+    text-align: center;
+    /*border: 5px none #ffffff;*/
+    /*border-radius: 20px;*/
+    flex-flow: row wrap;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    margin-bottom: 60px;
+
+}
+
+.secondary{
+    /*border: 5px none #19a5db;*/
+    /*border-radius: 20px;*/
+    width: 100%;
+    margin: auto;
+
+}
+
+
+.nazovDiv{
+    /*border: 5px none #8a1313;*/
+    /*border-radius: 20px;*/
+    height: 60px;
+}
+
+.cord-B{
+    font-weight: bold;
+    color: white;
+}
+
+.cord{
+    color: white;
+}
+
+.modalCords
+{
+    background-color: #322f2f;
+}
